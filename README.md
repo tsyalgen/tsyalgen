@@ -16,3 +16,7 @@
 * <img src="https://user-images.githubusercontent.com/63960240/128103916-76540f6d-53e0-41b8-bde2-6c54f7998520.png" alt="Mongo" height="22"> MongoDB
 * <img src="https://user-images.githubusercontent.com/63960240/128104006-007c3d60-0a7c-4b9b-bcb2-5be25d571f0a.png" alt="git" height="22"> Git
 * <img src="https://user-images.githubusercontent.com/63960240/128104994-e43b3ee3-8762-4bc8-9fc9-62c9f8990b25.png" alt="Figma" height="22"> Figma
+
+Есть какие-то вопросы, или просто хочешь пообщаться? Всегда рад! </br>
+
+<img src="https://user-images.githubusercontent.com/63960240/128106745-a0327d0d-30a8-440b-bb25-93cf6a3f87cc.png" alt="Figma" height="22"> [@atsybin](https://t.me/atsybin)
