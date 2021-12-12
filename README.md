@@ -4,13 +4,13 @@
 
 🌱 Сейчас работаю в Saber Interactive.
 
-### Мой стек:
+### Технологии, с которыми я работал или работаю:
 
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24"> HTML5
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24"> CSS3
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22"> JavaScript
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="Redux" height="22"> Vue.js
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22"> ReactJS
-* <img src="https://user-images.githubusercontent.com/63960240/128105231-6eca3d5e-367f-4a84-b644-073adaa7e96f.png" alt="Redux" height="22"> Redux
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="22"> Node.js
 * <img src="https://user-images.githubusercontent.com/63960240/128105695-eb46277e-1a12-425f-a1a3-4d736dbed2d1.png" alt="Express" height="22"> Express
 * <img src="https://user-images.githubusercontent.com/63960240/128103916-76540f6d-53e0-41b8-bde2-6c54f7998520.png" alt="Mongo" height="22"> MongoDB
